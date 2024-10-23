@@ -16,5 +16,11 @@
 			<version>7.10.1</version>
 			<scope>compile</scope>
 		</dependency>
+		<dependency>
+    <groupId>org.hamcrest</groupId>
+    <artifactId>hamcrest</artifactId>
+    <version>3.0</version>
+    <scope>test</scope>
+</dependency>
   </dependencies>
 </project>
